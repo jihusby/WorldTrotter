@@ -1,10 +1,3 @@
-//
-//  AppDelegate.swift
-//  WorldTrotter
-//
-//  Created by Jan Inge Husby on 08/02/16.
-//  Copyright © 2016 Jan Inge Husby. All rights reserved.
-//
 
 import UIKit
 

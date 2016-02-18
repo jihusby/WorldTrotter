@@ -1,0 +1,39 @@
+
+/* Class = "UITabBarItem"; title = "Convert"; ObjectID = "1Nj-Md-3Sb"; */
+"1Nj-Md-3Sb.title" = "Konverter";
+
+/* Class = "UILabel"; text = "is really"; ObjectID = "8pG-7H-ekc"; */
+"8pG-7H-ekc.text" = "tilsvarer";
+
+/* Class = "UIViewController"; title = "Conversion"; ObjectID = "BYZ-38-t0r"; */
+"BYZ-38-t0r.title" = "Konvertering";
+
+/* Class = "UILabel"; text = "degrees Celsius"; ObjectID = "DL2-eo-PP8"; */
+"DL2-eo-PP8.text" = "grader Celsius";
+
+/* Class = "UITabBarItem"; title = "Tab"; ObjectID = "Fy6-ay-Cuk"; */
+"Fy6-ay-Cuk.title" = "Kart";
+
+/* Class = "UITabBarItem"; title = "Web"; ObjectID = "OfN-sG-ZzY"; */
+"OfN-sG-ZzY.title" = "Web";
+
+/* Class = "UITextField"; placeholder = "Value"; ObjectID = "RSc-sH-Pw1"; */
+"RSc-sH-Pw1.placeholder" = "verdi";
+
+/* Class = "UITextField"; text = " "; ObjectID = "RSc-sH-Pw1"; */
+"RSc-sH-Pw1.text" = " ";
+
+/* Class = "UILabel"; text = "degrees Fahrenheit"; ObjectID = "TaG-Sx-cP4"; */
+"TaG-Sx-cP4.text" = "grader Fahrenheit";
+
+/* Class = "UIViewController"; title = "Map"; ObjectID = "YfM-JM-YGa"; */
+"YfM-JM-YGa.title" = "Kart";
+
+/* Class = "UILabel"; text = "1000"; ObjectID = "fYV-EL-Hha"; */
+"fYV-EL-Hha.text" = "1000";
+
+/* Class = "UIViewController"; title = "Web"; ObjectID = "vJG-MO-Vgt"; */
+"vJG-MO-Vgt.title" = "Web";
+
+/* Class = "UITabBarController"; title = "TabView"; ObjectID = "xC9-hJ-J3g"; */
+"xC9-hJ-J3g.title" = "TabView";
